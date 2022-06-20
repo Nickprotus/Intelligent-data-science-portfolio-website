@@ -1,6 +1,5 @@
 # Intelligent data science portfolio website
 
-#### EXPLORE Data Science Academy Cloud Computing Predict
 ## Overview
 
 In this project, nivolves using Python and AWS to create an intelligent data science portfolio website. At a high-level, the website was hosted in a serverless manner on AWS; showcasing my amazing data science, machine learning and AI projects.
