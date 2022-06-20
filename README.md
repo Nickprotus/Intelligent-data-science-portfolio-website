@@ -24,7 +24,7 @@ Below follows a brief description of each module in the system:
 >
 >- [x] **[AWS Comprehend:](https://aws.amazon.com/comprehend/)** An intelligent NLP  service capable of characterising sentiment and extracting key-phrases from the ingested text. Used to detect topics within the received webpage enquiries.
 
-## Predict Instructions
+## Steps
 
 The project involves distinct steps which follow on from one another sequentially.
 
