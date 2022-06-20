@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, involves using Python and AWS to create an intelligent data science portfolio website. At a high-level, the website was hosted in a serverless manner on AWS; showcasing my amazing data science, machine learning and AI projects.
+This project involves using Python and AWS to create an intelligent data science portfolio website. At a high-level, the website was hosted in a serverless manner on AWS; showcasing my amazing data science, machine learning and AI projects.
 
 Below follows a brief description of each module in the system:
 
